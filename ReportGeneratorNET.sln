@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportGeneratorNET", "ReportGeneratorNET\ReportGeneratorNET.csproj", "{CC22F267-7484-4F5A-9D9A-4F1295213920}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC22F267-7484-4F5A-9D9A-4F1295213920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC22F267-7484-4F5A-9D9A-4F1295213920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC22F267-7484-4F5A-9D9A-4F1295213920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC22F267-7484-4F5A-9D9A-4F1295213920}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67BC3C5E-6821-4192-B656-8E78E9C4E096}
+	EndGlobalSection
+EndGlobal
